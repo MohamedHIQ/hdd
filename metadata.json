@@ -1,0 +1,5 @@
+{
+  "name": "3D HDD Explorer",
+  "description": "An interactive 3D educational tool visualizing the internal components of a Hard Disk Drive (HDD) with Arabic and English descriptions.",
+  "requestFramePermissions": []
+}
